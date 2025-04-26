@@ -41,7 +41,7 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 100vh;
+    aspect-ratio: 9/16;
 }
 
 .center_container {
@@ -96,17 +96,5 @@ section {
 
     .social i {
         font-size: 48px;
-    }
-}
-
-
-@media (max-width: 768px) {
-    section {
-        background-size: contain;
-        background-position: top;
-        background-repeat: no-repeat;
-        width: 100%;
-        height: auto;
-        min-height: 100vh;
     }
 }
