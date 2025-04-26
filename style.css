@@ -98,28 +98,28 @@ section {
     }
 }
 
-@media (width: 320px) {
+@media (min-width: 320px) {
     section {
         max-width: 100%;
         height: auto;
     }
 }
 
-@media (width: 375px) {
+@media (min-width: 375px) {
     section {
         max-width: 100%;
         height: auto;
     }
 }
 
-@media (width: 425px) {
+@media (min-width: 425px) {
     section {
         max-width: 100%;
         height: auto;
     }
 }
 
-@media (width: 768px) {
+@media (min-width: 768px) {
     section {
         max-width: 100%;
         height: auto;
