@@ -78,7 +78,7 @@ section {
     text-align: center;
 }
 
-@media (width: 2560px) {
+@media (max-width: 2560px) {
     .content_box {
         width: 500px;
     }
@@ -98,30 +98,34 @@ section {
     }
 }
 
-@media (min-width: 320px) {
+@media (max-width: 320px) {
     section {
-        max-width: 100%;
+        background-size: contain;
         height: auto;
+        padding-top: 100%;
     }
 }
 
-@media (min-width: 375px) {
+@media (max-width: 375px) {
     section {
-        max-width: 100%;
+        background-size: contain;
         height: auto;
+        padding-top: 100%;
     }
 }
 
-@media (min-width: 425px) {
+@media (max-width: 425px) {
     section {
-        max-width: 100%;
+        background-size: contain;
         height: auto;
+        padding-top: 100%;
     }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     section {
-        max-width: 100%;
+        background-size: contain;
         height: auto;
+        padding-top: 100%;
     }
 }
