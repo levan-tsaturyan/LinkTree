@@ -99,38 +99,6 @@ section {
     }
 }
 
-@media (max-width: 320px) {
-    section {
-        background-size: contain;
-        background-position: top;
-        background-repeat: no-repeat;
-        width: 100%;
-        height: auto;
-        min-height: 100vh;
-    }
-}
-
-@media (max-width: 375px) {
-    section {
-        background-size: contain;
-        background-position: top;
-        background-repeat: no-repeat;
-        width: 100%;
-        height: auto;
-        min-height: 100vh;
-    }
-}
-
-@media (max-width: 425px) {
-    section {
-        background-size: contain;
-        background-position: top;
-        background-repeat: no-repeat;
-        width: 100%;
-        height: auto;
-        min-height: 100vh;
-    }
-}
 
 @media (max-width: 768px) {
     section {
